@@ -1,0 +1,14 @@
+Empolyee Absence Report
+1      2
+2     23
+3     43
+4     23
+
+The 4 employees were absent a total of 91 days.
+The average number of days absent is 22.8 days.
+
+Class: CMSC140 CRN 30414
+Assignment: Project 2
+programmer: Kenawak Abebe
+Due Date: 04/17/2023
+
